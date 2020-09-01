@@ -1,0 +1,22 @@
+# Lab Activity 2
+
+### bashQ1.sh
+  - accepts filename as an argument
+  - prints all the words not starting with 'sa'
+
+### bashQ1.sh
+  - accepts filename as an argument
+  - it takes those lines in which the 3rd field is work and prints replacing all occurences of the word 'work' with 'good' in those lines
+
+### bashQ3.sh
+  - accepts filename as an argument
+  - replace every character except the first 4 with '#' in the file
+
+### bashQ4.sh
+  - accepts filename as an argument
+  - search for all the occurences as per the question
+
+### bashQ5.sh
+  - accepts filename as an argument
+  - prints reversing the 4 fields using awk
+
